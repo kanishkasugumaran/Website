@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infogenix Private Limited</title>
+    
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Infogenix Private Limited</h1>
+        </header>
+        <main>
+            <div class="auth-buttons">
+                <button id="login-btn">LOGIN</button>
+                <button id="register-btn">REGISTER</button>
+                <button id="gmail-btn">Continue as a Gmail</button>
+            </div>
+        </main>
+    </div>
+    
+</body>
+</html>
